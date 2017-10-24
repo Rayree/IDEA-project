@@ -1,2 +1,2 @@
 # IDEA-project
-learning IDEA dir
+```first project with IDEA```
